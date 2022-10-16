@@ -1,0 +1,6 @@
+[submodule "lab"]
+	path = lab
+	url = git@github.com:Cwucke/lab.git
+[submodule "what"]
+	path = what
+	url = git@github.com:Cwucke/what.git
